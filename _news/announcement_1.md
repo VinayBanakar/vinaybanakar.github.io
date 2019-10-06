@@ -1,7 +1,6 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2019-09-20 01:59:00-0400
 inline: true
 ---
-
-A simple inline announcement.
+Won first prize in TechnoBiz track at [8th IEEE international conference on Cloud Computing in Emerging Markets (CCEM)](https://conferences.computer.org/ccem/2019/)

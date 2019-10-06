@@ -1,10 +1,12 @@
 ---
 layout: page
-title: Project 6
-description: a project with no image
-img:
+title: Kodachadri
+description: Karanataka
+img: /assets/img/kodachad.jpg
 ---
+<img class="col four left" src="{{ site.baseurl }}/assets/img/kodachad.jpg" alt="" title="image"/>
 
+<!-- 
 Every project has a beautiful feature shocase page. It's easy to include images, in a flexible 3-column grid format. Make your photos 1/3, 2/3, or full width.
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
@@ -52,4 +54,4 @@ The code is simple. Just add a col class to your image, and another class specif
 <div class="img_row">
     <img class="col two left" src="/img/6.jpg"/>
     <img class="col one left" src="/img/11.jpg"/>
-</div>
+</div> -->

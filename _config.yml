@@ -14,10 +14,13 @@ url:  # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
 last_updated: # leave blank if you don't want to display last updated
 
+## THIS IS IMPORTANT TO MAKE PUBLICATIONS COME ON HOME PAGE ALSO -- KEEP IT UPDATED
+years: [2019, 2018]
+
 # -----------------------------------------------------------------------------
 # Social integration
 # -----------------------------------------------------------------------------
-github_username: # your GitHub user name
+github_username: vinaybanakar # your GitHub user name
 twitter_username: # your Twitter handle
 linkedin_username: # your LinkedIn user name
 scholar_userid: # your Google Scholar ID
@@ -28,12 +31,12 @@ quora_username: # your Quora username
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
 
-google_analytics: UA-XXXXXXXXX # out your google-analytics code
+google_analytics: UA-77155837-2 # out your google-analytics code
 
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
-blog_name: al-folio
+blog_name: my node on the web
 blog_description: a simple whitespace theme for academics
 
 # Pagination
