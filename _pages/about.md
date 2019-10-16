@@ -16,4 +16,4 @@ years: [2019, 2018]
 ---
 
 <h3>Hello there!</h3>
-I am Vinay, a Senior Systems Engineer at Hewlett Packard Enterprise RnD Labs and a remote Research Fellow at Systems and Storage Lab, Univeristy of Texas at Austin under the guidance of [Prof. Vijay chidambaram](http://www.cs.utexas.edu/~vijay/){:target="\_blank"}. I am also currently working with [Dr kimberly keeton](https://en.wikipedia.org/wiki/Kimberly_Keeton){:target="\_blank"} on persistent fabric attached memory applications.
+I am Vinay, a Senior Systems Engineer at Hewlett Packard Enterprise RnD Labs and a remote Research Fellow at Systems and Storage Lab, Univeristy of Texas at Austin under the guidance of [Prof. Vijay Chidambaram](http://www.cs.utexas.edu/~vijay/){:target="\_blank"}. I am also currently working with [Dr Kimberly Keeton](https://en.wikipedia.org/wiki/Kimberly_Keeton){:target="\_blank"} on persistent fabric attached memory applications.
