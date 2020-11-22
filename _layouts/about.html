@@ -6,6 +6,7 @@ layout: page
   <div class="profile col one {{ page.profile.align }}">
     {% if page.profile.image %}
       <img class="one" src="{{ page.profile.image | prepend: '/assets/img/' | prepend: site.baseurl | prepend: site.url }}">
+      <p  style="text-align: center;"><a style="font-family:monospace;text-decoration:none;" href="mailto:vin@cs.wisc.edu">vin@cs.wisc.edu</a></p>
     {% endif %}
     {% if page.profile.address %}
       <div class="address">

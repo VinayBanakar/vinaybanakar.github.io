@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /adventures/
-title: adventures
+title: Adventures
 description: Books. Treks. Links.
 ---
 

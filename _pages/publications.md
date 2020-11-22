@@ -11,7 +11,7 @@ years: [2019, 2018]
   {% bibliography -f papers -q @*[year={{y}}]* %}
 {% endfor %}
 
-<h2>Service</h2>
+<h2 style="color:#9b0000;">Service</h2>
 <ul>
           <li>Artifact Evaluation committee member: <ul> 
             <li> <a href="https://sysartifacts.github.io/organizers.html"><u>27th ACM Symposium on Operating Systems Principles (SOSP) 2019</u></a></li>
