@@ -1,0 +1,180 @@
+\documentclass[a4paper,10pt]{article}
+\setlength{\voffset}{-0.3in}
+\setlength{\footskip}{2\onelineskip} 
+%\setlength{\hoffset}{-0.5in}
+%\setlength{\rightmargin}{10in}
+%\setlength{\textheight}{710pt}
+%A Few Useful Packages
+\usepackage{marvosym}
+\usepackage{fontspec} 					%for loading fonts
+\usepackage{xunicode,xltxtra,url,parskip} 	%other packages for formatting
+\RequirePackage{color,graphicx}
+\usepackage[usenames,dvipsnames]{xcolor}
+%\usepackage[big]{layaureo} 				%better formatting of the A4 page
+% an alternative to Layaureo can be ** \usepackage{fullpage} **
+\usepackage{fullpage}
+\usepackage{supertabular} 				%for Grades
+\usepackage{titlesec}					%custom \section
+\usepackage{enumerate}
+%Setup hyperref package, and colours for links
+\usepackage{hyperref}
+\definecolor{linkcolour}{rgb}{0,0.2,0.6}
+\hypersetup{colorlinks,breaklinks,urlcolor=linkcolour, linkcolor=linkcolour}
+%FONTS
+\defaultfontfeatures{Mapping=tex-text}
+%\setmainfont[SmallCapsFont = Fontin SmallCaps]{Fontin}
+%%% modified for Karol Kozioł for ShareLaTeX use
+\setmainfont[
+SmallCapsFont = Fontin-SmallCaps.otf,
+BoldFont = Fontin-Bold.otf,
+ItalicFont = Fontin-Italic.otf
+]
+{Fontin.otf}
+%%%
+
+%CV Sections inspired by: 
+%http://stefano.italians.nl/archives/26
+\titleformat{\section}{\Large\scshape\raggedright}{}{0em}{}[\titlerule]
+\titlespacing{\section}{0pt}{3pt}{8pt}
+%Tweak a bit the top margin
+%\addtolength{\voffset}{-1.3cm}
+
+%Italian hyphenation for the word: ''corporations''
+\hyphenation{im-pre-se}
+
+%-------------WATERMARK TEST [**not part of a CV**]---------------
+\usepackage[absolute]{textpos}
+
+\setlength{\TPHorizModule}{30mm}
+\setlength{\TPVertModule}{\TPHorizModule}
+\textblockorigin{2mm}{0.65\paperheight}
+\setlength{\parindent}{0pt}
+
+%--------------------BEGIN DOCUMENT----------------------
+\begin{document}
+
+
+\pagestyle{empty} % non-numbered pages
+
+\font\fb=''[cmr10]'' %for use with \LaTeX command
+
+%--------------------TITLE-------------
+
+{\Huge Vinay S Banakar}
+
+Dept. of Computer Science \hspace*{\fill} \href{mailto:vin@cs.wisc.edu}{vin@cs.wisc.edu}\\
+1210 W Dayton St, Madison, WI 53706 \hspace*{\fill} \href{www.vinaybanakar.com}{www.vinaybanakar.com}
+%--------------------SECTIONS-----------------------------------
+% Section: Personal Data
+% \section{Personal Data}
+
+% \begin{tabular}{rl}
+%     \textsc{Place and Date of Birth:} & Someplace, Italy  | dd Month 1912 \\
+%     \textsc{Address:}   & CV Inn 19, 20301, Milano, Italy \\
+%     \textsc{Phone:}     & +39 123 456789\\
+%     \textsc{email:}     & \href{mailto:alessandro.plasmati@gmail.com}{alessandro.plasmati@gmail.com}
+% \end{tabular}
+\vspace{5mm} %5mm vertical space
+\section{Education}
+\textbf{University of Wisconsin-Madison}  \hspace*{\fill} \emph{2020 (ongoing)}\\
+%MS in Computer Science \hspace*{\fill} Advisor: Prof. Remzi Arpaci-Dusseau
+Ph.D in Computer Science \hspace*{\fill} Advisors: Prof. Andrea Arpaci-Dusseau \\\hspace*{\fill} Prof. Remzi Arpaci-Dusseau
+
+\textbf{PES University} \hspace*{\fill} \emph{2013-2017} \\
+B.E in Computer Science and Engineering \hspace*{\fill} CGPA: 8.26/10
+
+\section{Areas of Interest}
+Storage, distributed systems and systems ML.
+
+\section{Publications}
+\begin{enumerate}[ {[}1{]} ]
+\item \textbf{Understanding and Benchmarking the Impact of GDPR on Database Systems} \hspace*{\fill} \emph{VLDB'20} \\
+Supreeth Shastri, \emph{Vinay Banakar}, Melissa Wasserman,\\ Arun Kumar, and Vijay Chidambaram
+\item \textbf{CIED - Rapid Composability of Rack Scale Resources Using Capability \hspace*{\fill} \textnormal{\emph{IEEE Infra'20}}\\ Inference Engine Across Datacenters} \\
+\emph{Vinay Banakar}, Pavan Upadhya, and Maneesh Keshavan
+\item \textbf{Analyzing the Impact of GDPR on Storage Systems} \hspace*{\fill} \emph{HotStorage'19}\\
+\emph{Vinay Banakar}, Aashaka Shah, Supreeth Shastri,\\ Melissa Wasserman, and Vijay Chidambaram
+\end{enumerate}
+
+\section{patents}
+\begin{enumerate}[ {[}1{]} ]
+\item \textbf{Intent driven hardware placement using rack capability inference \hspace*{\fill} \textnormal{\emph{US20210014998A1}} \\ engine across datacenters}, \emph{2019}\\
+\emph{Vinay Banakar}, Pavan Upadhya, and Maneesh Keshavan
+\item \textbf{Intelligent orchestration of disaggregated applications based \hspace*{\fill} \textnormal{\emph{US20200249999A1}}\\  on class of service}, \emph{2019}\\
+Tom Golway, \emph{Vinay Banakar},and \emph{Sandeep Panda}
+\item \textbf{Preemptive compatibility failure detection using graph structure \hspace*{\fill} \textnormal{\emph{US10831587B2}}\\ learning in datacenters}, \emph{2018}\\
+\emph{Vinay Banakar}, Pavan Upadhya, and Maneesh Keshavan
+\item \textbf{Topology based root cause triangulation of hardware issues \hspace*{\fill} \textnormal{\emph{US10831587B2}}} \\
+Pavan Upadhya, Maneesh Keshavan, Naveena Kedlaya, and \emph{Vinay Banakar} \\
+\end{enumerate}
+
+\section{Ongoing work}
+\begin{tabular}{r|p{11cm}}
+& - Improved learned LSM based KV store (\emph{Bourbon}) by replacing piece-wise linear regression with different ML indexes (radixSpline and PGM).\\
+UW Madison & - Auto-tuning Linux IO scheduler using Machine Learning [MLOS]\\
+& - Graduate Teaching Assistant: \emph{CS220} - Data programming with python [Fall'20], \emph{ECE225} - Intro to computer organization [Spring'21]. \\
+& - RecoverKV - Strongly consistent, partition tolerant KV store [Spring'21]. \\
+& - Data intensive-computation on persistent memory. [Spring'21] \\
+&- DIAS - Distributed machine learning Inference as A Service [Spring'21].
+
+\end{tabular} 
+% \section{Teaching Experience}
+% Graduate Teaching Assistant for Data Programming, \emph{CS220}.
+% \section{Contributions}
+% \begin{itemize}
+%     \item Review committee: \emph{HPE TechCon 2020}
+%     \item Artifact Evaluation Committee: \emph{ASPLOS 2020}, \emph{SOSP 2019}
+%     \item Book Contribution: \emph{\textbf{Effective Cybersecurity:} Understanding and Using Standards and Best Practices}, Dr William Stallings \emph{2018}.
+%     \item Open source contributions: \emph{Apache Ratis, Postgresql and YCSB}
+%     \item Invited Talks: Virtue insight Blockchain 2019 conference \emph{How GDPR is a double edged sword for Blockchain}, \emph{HPE Technical Symposium’18 and 19}.
+% \end{itemize}
+
+\section{Work experience}
+\begin{tabular}{r|p{11cm}}
+\textbf{HPE RnD Labs} & Avdisors: \emph{Dr. Kimberly Keeton and Dr. Sharad Singhal} \\ Systems Engineer 2 & Focus: Disaggregated memory and resource orchestration \\\emph{2017-2020}&- Developed applications/benchmarks for disaggregated persistent Fabric Attached Memory (\emph{openFAM}) to evaluate it against traditional cluster-based HPC programming models (\emph{openSHMEM}). \\ & - Designed and built large scale datacenter infrastructure management software (HPE OneView).\\& - Developed a Redfish compliant server hardware simulator. \\\multicolumn{2}{c}{}\\
+
+\textbf{UT Austin} & Advisor: \emph{Prof. Vijay Chidambaram} \\
+Research Fellow & - Investigated the impact of privacy policies (\emph{GDPR}) on storage systems. \\\emph{2018-2019} & We modified Redis, Postgres and OracleDB to strictly comply with GDPR requirements and found up to 20x drop in throughput. This illustrated how retro fitting existing storage designs to work efficiently with new privacy policies is inadequate, and demonstrated how GDPR is really a compliance spectrum.\\ & - We built GDPRBench, a GDPR specific benchmark that allow users to assess compliance level of a storage system and helps evaluate compliance-performance tradeoff.\\\multicolumn{2}{c}{}\\
+
+\textbf{HPE RnD Labs} & Implemented a virtual host simulation platform that mimics ESXi \\ Research intern & instances as hosts in a VMware vCenter cluster. Scaled up to 1000+ \\2017 & simulated hosts which were leveraged for performance evaluation in OneView. These instances also supported mock network configurations. \\\multicolumn{2}{c}{}\\
+
+\textbf{Signzy Technologies} & Built peripheral UI components with unit testing using mocha. \\ Developer intern & Investigated smart contracts use cases for KYC real time validation. \\2016& Developed company’s product mail service using Mandrill. \\\multicolumn{2}{c}{}\\
+
+\textbf{Research Associate} & Advisor: \emph{Dr K. V. Subramaniam} \\
+PES University & proposed and developed GPU support for Storm with jcuda and \\ 2015 & designed haar-cascade topology for face detection in images, we observed 6x  throughput improvement between GPU enabled and normal Storm.
+\end{tabular}
+
+
+\section{Awards and Accomplishments}
+% \begin{itemize}
+%     \item Silver award for innovation at Hewlett Packard RnD, \emph{2020}
+%     \item First prize in TechnoBiz track at \emph{8th IEEE conference on Cloud Computing in Emerging Markets}, 2019.
+%     \item Awarded 2018 ReportBee Research Fellowship
+%     \item Acknowledged by Dr William Stallings in Preface of the book \emph{\textbf{Effective Cybersecurity:} Understanding and Using Standards and Best Practices}
+%     \item Multiple certificate of Appreciations – HPE RnD group 2018, for presenting at Technical Symposium’18 and 19.
+%     \item Distinction Award at PESIT, Semester wise cash prizes for excellent academic performance.
+%     \item 2\textsuperscript{nd} place at MyWired Open hack 2016, by \emph{Cowrks}.
+%     \item 2\textsuperscript{nd} place at SimpliHack’15, hackathon by \emph{Simplilearn}.
+% \end{itemize}
+- \emph{Silver award} for innovation at Hewlett Packard Enterprise: \$3000, \emph{2020} \\
+- First prize in TechnoBiz track at \emph{8th IEEE conference on Cloud Computing in Emerging Markets}, 2019.\\
+- Awarded 2018 ReportBee Research Fellowship.\\
+- Multiple certificate of Appreciations – HPE RnD group \\
+- Distinction Award at PESIT, Semester wise cash prizes for excellent academic performance.\\
+- 2\textsuperscript{nd} place at MyWired Open hack 2016, by \emph{Cowrks}. \\
+- 2\textsuperscript{nd} place at SimpliHack’15, hackathon by \emph{Simplilearn}. \\
+
+\section{Contributions}
+- Review committee: \emph{HPE TechCon 2020}\\
+- Artifact Evaluation Committee: \emph{ASPLOS 2020}, \emph{SOSP 2019}\\
+- Book Contribution: \emph{\textbf{Effective Cybersecurity:} Understanding and Using Standards and Best Practices}, Dr William Stallings \emph{2018}.\\
+- Open source contributions: \emph{Apache Ratis, Postgresql and YCSB} \\
+- Invited Talks: Virtue insight Blockchain 2019 conference \emph{How GDPR is a double edged sword for Blockchain}, \emph{HPE Technical Symposium’18 and 19}.
+
+%\newpage
+%\hypertarget{gmat}{\textsc{Gmat}\setmainfont{LMRoman10 Regular}\textregistered\setmainfont[SmallCapsFont=Fontin-SmallCaps]{Fontin-Regular}}
+
+%\XeTeXpdffile ''GMAT.pdf'' page 1 scaled 800
+
+\end{document}
+
