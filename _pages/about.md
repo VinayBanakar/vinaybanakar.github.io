@@ -25,7 +25,7 @@ Previously, I was a Systems Engineer at Hewlett Packard Enterprise RnD Labs and 
 
 In the past, I have collaborated with [Dr. Kimberly Keeton](https://en.wikipedia.org/wiki/Kimberly_Keeton){:target="\_blank"} [[Gen-Z persistent fabric-attached memory](http://openfam.github.io/){:target="\_blank"}], [Prof. Supreeth Shastri](https://homepage.cs.uiowa.edu/~sshastri/){:target="\_blank"} and [Prof. Arun Kumar](http://cseweb.ucsd.edu/~arunkk/){:target="\_blank"} [GDPRBench].
 
-My research interest is **computer systems**: <br>Storage, Operating systems, Distributed systems and systems ML.
+My research interest is **computer systems**: <br>Non-volatile memory, storage systems, operating systems, and systems for ML.
 
 
 <!-- data privacy and large scale resource (compute, network and storage) orchestration in datacenters. Especially, my recent work focuses on designing and building benchmarks for persistent fabric attached memory architecture, determining the impact of privacy regulations on storage system’s design and performance by building a benchmarking tool, and finally designing and implementing intent driven hardware provisioning and placement algorithms. -->
