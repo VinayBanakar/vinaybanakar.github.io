@@ -23,7 +23,7 @@ I am Vinay, a second-year graduate student in the [Computer Sciences Department]
 
 Previously, I was a Systems Engineer at Hewlett Packard Enterprise RnD Labs and a remote Research Fellow at [Systems and Storage Lab](https://utsaslab.github.io/){:target="\_blank"}, [University of Texas at Austin](https://www.cs.utexas.edu/){:target="\_blank"} under the guidance of [Prof. Vijay Chidambaram](http://www.cs.utexas.edu/~vijay/){:target="\_blank"}. 
 
-In the past, I have collaborated with [Dr. Kimberly Keeton](https://en.wikipedia.org/wiki/Kimberly_Keeton){:target="\_blank"} [[Gen-Z persistent fabric-attached memory](http://openfam.github.io/){:target="\_blank"}], [Prof. Supreeth Shastri](https://homepage.cs.uiowa.edu/~sshastri/){:target="\_blank"} and [Prof. Arun Kumar](http://cseweb.ucsd.edu/~arunkk/){:target="\_blank"} [GDPRBench].
+In the past, I have collaborated with [Dr. Kimberly Keeton](https://en.wikipedia.org/wiki/Kimberly_Keeton){:target="\_blank"} [[Gen-Z persistent fabric-attached memory](http://openfam.github.io/){:target="\_blank"}], [Prof. Supreeth Shastri](https://homepage.cs.uiowa.edu/~sshastri/){:target="\_blank"} and [Prof. Arun Kumar](http://cseweb.ucsd.edu/~arunkk/){:target="\_blank"} [[GDPRBench](https://www.gdprbench.org/){:target="\_blank"}].
 
 My research interest is **computer systems**: <br>Non-volatile memory, storage systems, operating systems, and systems for ML.
 
