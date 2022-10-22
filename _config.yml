@@ -15,7 +15,7 @@ baseurl: # the subpath of your site, e.g. /blog/
 last_updated: # leave blank if you don't want to display last updated
 
 ## THIS IS IMPORTANT TO MAKE PUBLICATIONS COME ON HOME PAGE ALSO -- KEEP IT UPDATED
-years: [2020, 2019, 2018]
+years: [2022, 2020, 2019, 2018]
 
 # -----------------------------------------------------------------------------
 # Social integration
