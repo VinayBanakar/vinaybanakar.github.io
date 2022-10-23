@@ -4,7 +4,8 @@ layout: default
 <div class="post">
 
   <header class="post-header">
-    <h1 style="color:#a61212;display:inline;"; class="post-title" >{{ page.title }} </h1><h1 style="display:inline;" class="post-title">{{page.title2}}</h1>
+    <h1 style="color:#a61212;display:inline;" ; class="post-title">{{ page.title }} </h1>
+    <h1 style="display:inline;" class="post-title">{{page.title2}}</h1>
     <h5 class="post-description">{{ page.description }}</h5>
   </header>
 
@@ -13,9 +14,9 @@ layout: default
   </article>
 
   {% if page.news %}
-    {% include news.html %}
+  {% include news.html %}
   {% endif %}
-  
+
   {% if page.social %}
   {% include social.html %}
   {% endif %}
