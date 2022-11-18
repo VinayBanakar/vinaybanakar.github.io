@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-29 10:00:00-0400
+date: 2022-11-17 11:00:00-0400
 inline: true
 ---
-RIP Intel Optane DC Persistent Memory!
+Passed my P.h.D qualifying exam! 😄
