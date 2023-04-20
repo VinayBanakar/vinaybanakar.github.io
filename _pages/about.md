@@ -8,7 +8,8 @@ title2: Banakar
 
 profile:
   align: right
-  image: vinay_latest_2.png
+  image: vinay_latest_3.jpeg
+  # image: vinay_latest_3.JPG
   caption: caption
 
 news: true
