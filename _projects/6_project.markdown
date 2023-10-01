@@ -1,10 +1,10 @@
----
+<!-- ---
 layout: page
 title: Kodachadri
 description: Karanataka
 img: /assets/img/kodachad.jpg
 ---
-<img class="col four left" src="{{ site.baseurl }}/assets/img/kodachad.jpg" alt="" title="image"/>
+<img class="col four left" src="{{ site.baseurl }}/assets/img/kodachad.jpg" alt="" title="image"/> -->
 
 <!-- 
 Every project has a beautiful feature shocase page. It's easy to include images, in a flexible 3-column grid format. Make your photos 1/3, 2/3, or full width.
