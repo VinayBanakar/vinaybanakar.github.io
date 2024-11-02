@@ -8,9 +8,8 @@ title2: Banakar
 
 profile:
   align: right
-  image: vinay_latest_3.jpeg
-  # image: vinay_latest_3.JPG
-  caption: caption
+  image: vinay_new_2.png
+  caption: vin@cs.wisc.edu
 
 news: true
 publications: true
@@ -20,9 +19,10 @@ years: [2023, 2020, 2019, 2018]
 ---
 
 <!-- <h3><strong>Hello!</strong></h3> -->
-I am Vinay, a PhD student in the [Computer Sciences Department](https://www.cs.wisc.edu/){:target="\_blank"} at [The University of Wisconsin-Madison](https://www.wisc.edu/){:target="\_blank"} and a Student Researcher at [Google Systems Research Group](https://techsysinfra.google/research/). At UW-Madison, I am part of [The ADvanced Systems Laboratory](https://research.cs.wisc.edu/adsl/){:target="\_blank"}, advised by Prof. [Andrea Arpacı-Dusseau](http://pages.cs.wisc.edu/~dusseau/){:target="\_blank"} and Prof. [Remzi Arpacı-Dusseau](https://pages.cs.wisc.edu/~remzi/){:target="\_blank"}.
+<br>
+I am a PhD student in the [Computer Sciences Department](https://www.cs.wisc.edu/){:target="\_blank"} at [The University of Wisconsin-Madison](https://www.wisc.edu/){:target="\_blank"} and a Student Researcher at [Google Systems Research Group](https://techsysinfra.google/research/). I am advised by Prof. [Andrea Arpacı-Dusseau](http://pages.cs.wisc.edu/~dusseau/){:target="\_blank"} and Prof. [Remzi Arpacı-Dusseau](https://pages.cs.wisc.edu/~remzi/){:target="\_blank"} in [The ADvanced Systems Laboratory](https://research.cs.wisc.edu/adsl/){:target="\_blank"}.
 
-My research interest is **computer systems**: Byte-Addressable Storage, distributed storage systems, and systems for ML. My current focus is on exploring new Data-Intensive computing paradigms for Byte-Addressable Storage.
+My research interest is **computer systems**: Byte-Addressable Storage, distributed storage systems, and systems for ML.
 
 Previously, I was a Research Collaborator at the [Microsoft Gray Systems Lab](https://www.microsoft.com/en-us/research/group/gray-systems-lab/), a Senior Systems Engineer at Hewlett Packard Enterprise RnD Labs, and a remote Research Fellow at [Systems and Storage Lab](https://utsaslab.github.io/){:target="\_blank"}, [University of Texas at Austin](https://www.cs.utexas.edu/){:target="\_blank"}. 
 
