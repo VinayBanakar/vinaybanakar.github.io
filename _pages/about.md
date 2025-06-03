@@ -15,7 +15,7 @@ news: true
 publications: true
 social: true
 site.scholar_userid: 56xUfE0AAAAJ&hl
-years: [2023, 2020, 2019, 2018]
+years: [2025, 2023, 2020, 2019, 2018]
 ---
 
 <!-- <h3><strong>Hello!</strong></h3> -->
