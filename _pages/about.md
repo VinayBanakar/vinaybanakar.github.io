@@ -24,7 +24,7 @@ I am a PhD candidate in the [Computer Sciences Department](https://www.cs.wisc.e
 
 My research interest is **computer systems**: operating systems, distributed storage systems, and systems for ML.
 
-Previously, I was a Research Collaborator at the [Microsoft Gray Systems Lab](https://www.microsoft.com/en-us/research/group/gray-systems-lab/), a Senior Systems Engineer at Hewlett Packard Enterprise RnD Labs, and a remote Research Fellow at [Systems and Storage Lab](https://utsaslab.github.io/){:target="\_blank"}, [University of Texas at Austin](https://www.cs.utexas.edu/){:target="\_blank"}. 
+Previously, I was a Research Affiliate at the [Microsoft Gray Systems Lab](https://www.microsoft.com/en-us/research/group/gray-systems-lab/), a Senior Systems Engineer at Hewlett Packard Enterprise RnD Labs, and a remote Research Fellow at [Systems and Storage Lab](https://utsaslab.github.io/){:target="\_blank"}, [University of Texas at Austin](https://www.cs.utexas.edu/){:target="\_blank"}. 
 
 <!-- I have had the pleasure collaborating with [Dr. Kimberly Keeton](https://en.wikipedia.org/wiki/Kimberly_Keeton){:target="\_blank"} [[Gen-Z persistent fabric-attached memory](http://openfam.github.io/){:target="\_blank"}], [Prof. Supreeth Shastri](https://homepage.cs.uiowa.edu/~sshastri/){:target="\_blank"} and [Prof. Arun Kumar](http://cseweb.ucsd.edu/~arunkk/){:target="\_blank"} [[GDPRBench](https://www.gdprbench.org/){:target="\_blank"}]. -->
 
