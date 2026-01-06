@@ -59,6 +59,7 @@ title: Work Photos
   {% for p in site.data.my_album.photos %}
     <img
       loading="lazy"
+      referrerpolicy="no-referrer"
       src="{{ p.thumb | default: p.url }}"
       data-full="{{ p.full | default: p.url }}"
       alt="">
