@@ -79,6 +79,8 @@ title: Unposted Tweets
 <!-- <p style="text-align: center;"></p> -->
 <p style="text-align: center;">This is a place for my passing thoughts. <br> If you’re nodding or fuming, send me an <a href="mailto:vin@cs.wisc.edu">email</a>. I like both :)</p>
 
+- <a id ="jan-15-2026"></a> [#](#jan-15-2026) *Jan 15 2026* Sometimes not knowing how hard it is to do something is a good thing. The momentum gets you through for a while and then sunk cost fallacy kicks in to keep you going. What comes out could be worthwhile. Examples: Nvidia, ASML, SpaceX.
+- <a id="jan-11-2026"></a> [#](#jan-11-2026) *Jan 11 2026* When you want to convince someone about something, the details and consistency matters. The audience can often tell if something feels genuine even if they have no clue about the reality of the subject.
 - <a id="jan-10-2026"></a> [#](#jan-8-2026) *Jan 8 2026* Long ago, Western empires (Macedonian, British, Portuguese, etc) raced to reach the East - India and China. Today, people from the East live and build everywhere. A reminder that people make places and shape ideas.  
 - <a id="jan-7-2026"></a> [#](#jan-7-2026) *Jan 7 2026* Science isn’t brilliance. It’s the privilege of failing repeatedly, and persisting long enough to be called “creative.” Material stability is essential, but mentally you have to live with discomfort.
 - <a id="jan-6-2026-a"></a> [#](#jan-6-2026-a) *Jan 6 2026* AI coding agents are great for avoiding attachment to ideas. The longer you spend coding something, the more attached you get to the implementation. Coding agents can help you fail faster, making failures more acceptable.

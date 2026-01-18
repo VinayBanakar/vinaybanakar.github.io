@@ -13,5 +13,6 @@ permalink: /fun/
 </style>
 
 <div style="text-align: center;">
-  <a href="/photos">Work Photos</a> &bull; <a href="/links">Fun Links</a> &bull; <a href="/tweets">Unposted Tweets</a>
+  <!-- <a href="/photos">Work Photos</a> &bull;  -->
+  <a href="/links">Fun Links</a> &bull; <a href="/tweets">Unposted Tweets</a>
 </div>
