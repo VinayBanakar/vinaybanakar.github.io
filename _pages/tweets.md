@@ -79,6 +79,7 @@ title: Unposted Tweets
 <!-- <p style="text-align: center;"></p> -->
 <p style="text-align: center;">This is a place for my passing thoughts. <br> If you’re nodding or fuming, send me an <a href="mailto:vin@cs.wisc.edu">email</a>. I like both :)</p>
 
+- <a id="jan-19-2026"></a> [#](#jan-19-2026) *Jan 19 2026* Movie Theatres are a great example of forced attention - dark room, limited movement, big screen, and no easy exit. As kids this was everywhere (home, school). As adults, freedom means choosing one's own constraints.
 - <a id="jan-16-2026"></a> [#](#jan-16-2026) *Jan 16 2026* Going from a millionaire to a billionaire is same as going from having a thousand dollars to a million dollars! But for every millionaire, there are about 10 people with $1,000. For every billionaire, there are 30,000 millionaires. Same multiplier, 3,000x harder.
 - <a id ="jan-15-2026"></a> [#](#jan-15-2026) *Jan 15 2026* Sometimes not knowing how hard it is to do something is a good thing. The momentum gets you through for a while and then sunk cost fallacy kicks in to keep you going. What comes out could be worthwhile. Examples: Nvidia, ASML, SpaceX.
 - <a id="jan-11-2026"></a> [#](#jan-11-2026) *Jan 11 2026* When you want to convince someone about something, the details matters. The audience can often tell if something feels genuine even if they have no clue about the reality of the subject. Something good but unprofessional feels worse than something mediocre but professional.

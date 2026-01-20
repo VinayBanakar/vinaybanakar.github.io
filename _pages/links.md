@@ -11,5 +11,5 @@ title: Links
     text-align: justify;
   } */
 </style>
-[LessWrong](https://www.lesswrong.com){:target="\_blank"} -- [neal.fun](https://neal.fun/){:target="\_blank"}
+[LessWrong](https://www.lesswrong.com/library){:target="\_blank"} -- [neal.fun](https://neal.fun/){:target="\_blank"}
 -- [phys](https://phys.org/){:target="\_blank"} -- [Bartosz Ciechanowski](https://ciechanow.ski/archives/){:target="\_blank"} -- [waitbutwhy](https://waitbutwhy.com/){:target="\_blank"} -- [Ishkur's Guide to Electronic Music](https://music.ishkur.com/){:target="\_blank"} -- [Quite Art of Attention](/assets/pdf/attention.html){:target="\_blank"} -- [Gwern](https://gwern.net/){:target="\_blank"} -- [Paul Ghram's Essays](https://paulgraham.com/articles.html){:target="\_blank"} -- [Seeing Theory](https://seeing-theory.brown.edu/index.html){:target="\_blank"} -- [DynamoMight](https://dynomight.net/){:target="\_blank"}
