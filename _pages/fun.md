@@ -29,7 +29,7 @@ permalink: /fun/
     <img
       src="{{ '/assets/img/lastfm-collage.jpg' | relative_url }}?v={{ site.time | date: '%s' }}"
       alt="Last.fm album collage"
-      style="width: 90%; height: auto; border: 1px solid #e1e1dc;"
+      style="width: 75%; height: auto; border: 1px solid #e1e1dc;"
     >
   </a>
   <div style="font-size: 0.9rem; color: #6c6c6c; margin-top: 0.6rem;">
