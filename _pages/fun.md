@@ -16,3 +16,16 @@ permalink: /fun/
   <!-- <a href="/photos">Work Photos</a> &bull;  -->
   <a href="/links">Fun Links</a> &bull; <a href="/tweets">Unposted Tweets</a>
 </div>
+
+<hr style="margin: 2rem auto; width: 60%; border: 0; border-top: 1px solid #e1e1dc;">
+
+<div style="max-width: 900px; margin: 2rem auto; text-align: center;">
+  <p>Recent albums</p>
+  <img
+    src="{{ '/assets/img/lastfm-collage.jpg' | relative_url }}?v={{ site.time | date: '%s' }}"
+    alt="Last.fm album collage"
+    style="width: 100%; height: auto; border: 1px solid #e1e1dc;"
+  >
+  <div style="font-size: 0.9rem; color: #6c6c6c; margin-top: 0.6rem;">
+  </div>
+</div>
