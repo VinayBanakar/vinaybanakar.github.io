@@ -12,10 +12,10 @@ ImageFile.LOAD_TRUNCATED_IMAGES = True
 
 API_URL = "https://ws.audioscrobbler.com/2.0/"
 OUTPUT_PATH = "assets/img/lastfm-collage.jpg"
-WIDTH = 1500
-HEIGHT = 1500
+WIDTH = 1200
+HEIGHT = 1200
 TILE_SIZE = 300
-PERIOD = "overall"
+PERIOD = "7day"
 LAYOUT = "topleft"
 JPEG_QUALITY = 100
 TIMEOUT_SECS = 20
