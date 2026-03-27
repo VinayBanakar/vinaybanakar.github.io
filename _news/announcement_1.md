@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2024-09-07
+date: 2026-03-01
 inline: true
 ---
-Attempted my first [Ironman 70.3!](https://www.ironman.com/im703-wisconsin){:target="\_blank"} <i class="fas fa-bicycle"></i>
+Received the [WISL award](http://scifun.org/Thesis_Awards/banakar.html){:target="_blank"} for my PhD research

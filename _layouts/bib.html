@@ -86,6 +86,9 @@
     [<a href="{{ entry.slides | prepend: '/assets/pdf/' | prepend: site.baseurl | prepend: site.url }}"
       target="_blank">Slides</a>]
     {% endif %}
+    {% if entry.video %}
+    [<a href="{{ entry.video }}" class="btn btn-sm z-depth-0" role="button" target="_blank">Video</a>]
+    {% endif %}
     {% if entry.code %}
     [<a href="{{ entry.code }}" target="_blank">Code</a>]
     {% endif %}

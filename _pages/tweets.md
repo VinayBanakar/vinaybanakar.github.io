@@ -79,6 +79,16 @@ title: Unposted Tweets
 <!-- <p style="text-align: center;"></p> -->
 <p style="text-align: center;">This is a place for my passing thoughts. <br> If you’re nodding or fuming, send me an <a href="mailto:vin@cs.wisc.edu">email</a>. I like both :)</p>
 
+<!-- The most empowering thing is to be able to control who you want to be. You can control what you think and how you think. Teaching someone that they can control their thoughts.
+Every day you get to become who you want to be, atleast mentally. However, knowing what to think and how to think is the hard part.
+
+The ability to be happy for small things is truly underated. In a connected world where there will always be someone richer, smarter, faster, stronger, than you, and you get to see and compare yourself.
+Makes me wonder if you are always happy will you ever strive for more? Will you embody the growth mindset? Are they mutually exclusive? I am still afraid if being too happy will make me complacent because many good things in my life came out of struggle.
+I used to hate trite adages like this but now the more I talk to people around the world, the more this rings true.  
+Can I change my mind?
+
+How to cultivate taste in the AI world? Can we teach this "taste" to AI? Are people already doing this? -->
+
 - <a id="Feb-1-2026"></a> [#](#Feb-1-2026) *Feb 1 2026* Most humans don't just want to exist; they want to exist distinctly from others. But this need to be unique or special might be purely social: the pressure to feel irreplaceable or important. Some animals are self-aware, but do they actively seek individuality? All peacocks have plumage. LLMs, funnily enough, exhibit uniqueness, not from evolutionary need, but simply because of their training data.
 - <a id="Jan-27-2026"></a> [#](#Jan-27-2026) *Jan 27 2026* Is flaunting intellectual superiority more acceptable than flaunting wealth? Do I believe that because flaunt-worthy wealth is perhaps out of my reach and I've subconsciously learned to dislike it? Or just because the social norms around me expect me to dislike it? <a href="https://en.wikipedia.org/wiki/Ressentiment" target="_blank">(*)</a>
 - <a id="Jan-25-2026"></a> [#](#Jan-25-2026) *Jan 25 2026* People will care about anything if you give them a reason to. The mind craves anomalies, paradoxes, results that feel wrong. That's your hook. Clickbait is fine, you just have to earn it by adding context and detail later.
