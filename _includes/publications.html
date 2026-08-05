@@ -1,5 +1,5 @@
 <div>
-    <h2 style="color:#9b0000;">Patents and Publications</h2>
+    <h2 style="color:#9b0000;">Publications and Patents</h2>
     {% for y in page.years %}
     <h3 class="year">{{y}}</h3>
     {% bibliography -f papers -q @*[year={{y}}]* %}

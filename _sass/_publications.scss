@@ -27,6 +27,7 @@
 
         span { display: block; }
         .title { font-weight: bolder; }
+        .periodical > em { color: $theme-color; }
         .author {
             a {
                 border-bottom: 1px dashed $theme-color;

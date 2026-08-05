@@ -8,6 +8,14 @@
     display: block;
     font-size: 60px;
     margin: 10px;
+
+    /* academicons' `.ai` sets font-size:inherit and loads after Font Awesome,
+       so it cancels fa-sm. Size it explicitly and drop it onto the same
+       optical baseline as the fa squares. */
+    .ai {
+        font-size: 0.875em;
+        vertical-align: -0.042em;
+    }
 }
 .center{
     text-align: center;

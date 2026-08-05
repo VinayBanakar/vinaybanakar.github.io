@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: Patents and Publications in reversed chronological order.
+description: Publications and Patents in reversed chronological order.
 years: [2026, 2025, 2023, 2020, 2019, 2018]
 ---
 <style>
