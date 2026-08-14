@@ -25,7 +25,7 @@ nav_order: 5
 
 | Year | Venue | Talk |
 | --- | --- | --- |
-| 2026 | Meta [AI & Compute Foundation](https://aisystemcodesign.github.io/acf.html){:target="_blank"} | We're NOT short on memory;<br>We're just bad at layout |
+| 2026 | Meta [AI & Compute Foundation](https://aisystemcodesign.github.io/acf.html){:target="_blank"} | [We're NOT short on memory;<br>We're just bad at layout](https://www.vinaybanakar.com/assets/pdf/Meta-Memory-Talk-2026.pdf) |
 | 2026 | UT Austin Systems Seminar | Should the Page Abstraction Die? |
 | 2026 | Operating Systems ([Mike Swift](https://pages.cs.wisc.edu/~swift/){:target="_blank"}) | Hotness Fragmentation in Datacenters |
 | 2025 | [Mad Systems Seminar](https://madsystems.cs.wisc.edu/seminar.html){:target="_blank"} | Tidying Up the Messy Address Space |
