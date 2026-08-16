@@ -56,7 +56,11 @@ def fetch_top_albums(
             raise RuntimeError(f"Last.fm error {data.get('error')}: {data.get('message')}")
 
         payload = data.get("topalbums", {})
-        albums.extend(payload.get("album", []))
+        page_albums = payload.get("album", [])
+        if not page_albums:
+            break
+
+        albums.extend(page_albums)
         attr = payload.get("@attr", {})
         try:
             total_pages = int(attr.get("totalPages", 0))
@@ -118,7 +122,8 @@ def main() -> int:
 
     albums = fetch_top_albums(session, user, api_key, PERIOD, needed)
     if len(albums) < needed:
-        raise RuntimeError("Not enough albums returned to fill the collage")
+        print("Not enough albums returned to fill the collage; skipping update.")
+        return 0
 
     tiles: List[Image.Image] = []
     for album in albums:
@@ -133,7 +138,8 @@ def main() -> int:
         tiles.append(tile)
 
     if len(tiles) < needed:
-        raise RuntimeError("Not enough album images could be downloaded")
+        print("Not enough album images could be downloaded; skipping update.")
+        return 0
 
     os.makedirs(os.path.dirname(OUTPUT_PATH), exist_ok=True)
     collage = build_collage(tiles, rows, cols)
