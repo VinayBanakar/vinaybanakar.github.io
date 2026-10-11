@@ -87,7 +87,11 @@ Makes me wonder if you are always happy will you ever strive for more? Will you 
 I used to hate trite adages like this but now the more I talk to people around the world, the more this rings true.  
 Can I change my mind?
 
-How to cultivate taste in the AI world? Can we teach this "taste" to AI? Are people already doing this? -->
+How to cultivate taste in the AI world? Can we teach this "taste" to AI? Are people already doing this? 
+
+-- 
+Discovery by nature is messy, error-filled, and iterative. 
+-->
 
 - <a id="Feb-1-2026"></a> [#](#Feb-1-2026) *Feb 1 2026* Most humans don't just want to exist; they want to exist distinctly from others. But this need to be unique or special might be purely social: the pressure to feel irreplaceable or important. Some animals are self-aware, but do they actively seek individuality? All peacocks have plumage. LLMs, funnily enough, exhibit uniqueness, not from evolutionary need, but simply because of their training data.
 - <a id="Jan-27-2026"></a> [#](#Jan-27-2026) *Jan 27 2026* Is flaunting intellectual superiority more acceptable than flaunting wealth? Do I believe that because flaunt-worthy wealth is perhaps out of my reach and I've subconsciously learned to dislike it? Or just because the social norms around me expect me to dislike it? <a href="https://en.wikipedia.org/wiki/Ressentiment" target="_blank">(*)</a>
